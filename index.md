@@ -1,6 +1,21 @@
-# Welcome to yeLyn36 home page
 ## Welcome to GitHub Pages
 
+```java
+  System.out.println("Hello World");
+```
+```html
+<div>Hello</div>
+```
+
+* 목록
+* 목록
+
+- 목록
+- 목록
+
+| 학번 | 이름 |
+| ---- | --- |
+| 2311 | 원예린|
 You can use the [editor on GitHub](https://github.com/yeLyn36/yeLyn36.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
