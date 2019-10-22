@@ -19,7 +19,7 @@
 
 [내 홈페이지로 가기](https://yeLyn36.github.io)
 ![구글로 가기](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
-![내 사진](my_picture.JPG)
+![내 프로필 사진](my_picture.JPG)
 
 You can use the [editor on GitHub](https://github.com/yeLyn36/yeLyn36.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
